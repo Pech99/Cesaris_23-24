@@ -1,3 +1,8 @@
+/*
+    Scrivere un programma che presi in input 3 valori,
+    Stampi a schermo il minimo dei 3.
+*/
+
 #include <stdio.h>
 
 int main(){

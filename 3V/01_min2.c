@@ -1,3 +1,8 @@
+/*
+    Scrivere un programma che presi in input 2 valori,
+    Stampi a schermo il minimo dei 2.
+*/
+
 #include <stdio.h>
 
 int main(){
