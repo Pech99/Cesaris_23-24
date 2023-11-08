@@ -85,7 +85,7 @@ int main(){                     // La funzione main è l'entry point del program
                                 // C: è la condizione che dev'essere vera affinchè il ciclo continui
                                 // I2: è un istruzione che viene eseguita alla fine di ogni iterazione.
 
-    for(int i=0; i<10; i++){    // Questa è una tipica intestazione, dove si dichiara una variabile e la si azzera,
+    for(int i=0; i<MAX; i++){    // Questa è una tipica intestazione, dove si dichiara una variabile e la si azzera,
         // Codice               // alla fine di ogni iterazione la si incrementa e si controlla che il suo valore
     }                           // sia minore di 10. questo ciclo farà quindi 10 iterazioni, dove i varierà da 0 a 9.
 

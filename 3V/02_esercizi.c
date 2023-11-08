@@ -11,3 +11,17 @@
     Output Atteso:          Max: 56;    Min: -15;
 */
 
+/*
+    Stampare un quadrato di '#' di lato preso in input
+*/
+
+/*
+    Stampare un rombo di '+' di dimensone n presa in input
+    n = 5;
+        |   +
+        |  +++
+      n | +++++
+        |  +++
+        |   +
+
+*/
