@@ -9,17 +9,26 @@
 #include <stdio.h>
 
 int main(){
-
-    /*
-    int a = 0;
+    int a, max, min;
+    
     scanf("%d", &a);
+    max = a;
+    min = a;
 
-    while(a<=0){
-        a--;
-        printf("%d", a);
-        continue;
-        break;
+    while(a!=0){
+        scanf("%d", &a);
+        if (a==0){
+            break;
+        }
+        
+        if(a>max){
+            max = a;
+        }
+
+        if(a<min){
+            min = a;
+        }
     }
-    */
-
+    
+    printf("Max: %d;\tMin: %d", max, min);
 }

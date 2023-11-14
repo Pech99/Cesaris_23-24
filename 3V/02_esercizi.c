@@ -7,7 +7,6 @@
 
     Esempio di input:   7 5 6 -6 0 -4 56 8 7 9 
     Output Atteso:      Max: 56;
-
 */
 
 /*
