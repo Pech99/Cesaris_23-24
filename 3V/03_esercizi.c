@@ -19,12 +19,12 @@
 */
 
 /*
-    Implementare una semplice calcolatrice polacca:
-    Inseriti 2 valori ed un operatore stampare
-    il risultato dell'operazione.
+    Implementare una semplice calcolatrice in
+    notazione polacca: Inseriti 2 valori ed un
+    operatore stampare il risultato dell'operazione.
     (HINT: Usare il costrutto switch)
 
-    Esempi
+    Esempib 
         Input:  2 3 +
         output: 5
 
