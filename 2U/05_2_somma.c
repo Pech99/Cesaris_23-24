@@ -11,3 +11,7 @@ int main(){
     printf("la somma e': %d", tot);
 }
 
+
+
+
+

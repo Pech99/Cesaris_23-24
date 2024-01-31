@@ -1,12 +1,11 @@
 #include<stdio.h>
 
 int main(){
-    int n = 0, s = 0, i = 0;
+    int n = 0, s = 0, i;
 
-    while(i < 10){
+    for(i=0; i<10; i++){
         scanf("%d", &n);
         s += n;
-        i++;
     } 
 
     printf("La somma e': %d", s);
